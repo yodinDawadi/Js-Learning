@@ -1,0 +1,31 @@
+*{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    padding: 20px;
+}
+.main{
+    background-color: blue;
+    width: 60%;
+}
+.menu{
+    background-color: red;
+    width: 20%;
+}
+.Right{
+    background-color: green;
+    width: 20%;
+}
+.footer{
+    background-color: grey;
+    padding: 20px;
+}
+.good{
+    display: flex;
+    height: 100vh;
+}
